@@ -4,7 +4,9 @@ for(let i =0; i < names.length; i++){
 }
 
 // Splices Method in Array
+// 1 Mean Delete and 0 means place in that index
 names.splice(2, 0, "Faizan", "Saad");
+names.splice(2, 1, "Faizan", "Saad");
 console.log(names)
 
 // Slice

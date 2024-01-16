@@ -1,0 +1,12 @@
+{
+  "name": "step01_strong_typing",
+  "version": "1.0.0",
+  "description": "[Read Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

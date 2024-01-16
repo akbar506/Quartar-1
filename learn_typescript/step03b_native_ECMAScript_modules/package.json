@@ -1,0 +1,13 @@
+{
+  "name": "step03b_native_ecmascript_modules",
+  "version": "1.0.0",
+  "description": "Now we want our JavaScript Node.js files to use the [ECMAScript modules](https://nodejs.org/api/esm.html#modules-ecmascript-modules)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
